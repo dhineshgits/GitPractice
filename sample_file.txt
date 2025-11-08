@@ -1,1 +1,2 @@
 Hello dhinesh!
+Today I planning to complete OPPS concept and Git.
